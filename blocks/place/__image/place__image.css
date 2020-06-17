@@ -1,0 +1,31 @@
+@import url(./_location_altai/place__image_location_altai.css);
+@import url(./_location_baikal/place__image_location_baikal.css);
+@import url(./_location_karelia/place__image_location_karelia.css);
+@import url(./_location_kolsky/place__image_location_kolsky.css);
+@import url(./_location_kosa/place__image_location_kosa.css);
+
+
+.place__image {
+  width: 100%;
+  padding-bottom: 100%;
+  background-size: cover;
+  background-position: center;
+}
+/*
+@media screen and (max-width: 1280px) {
+  .place__image {
+    max-width: 440px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .place__image {
+    max-width: 340px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .place__image {
+    max-width: 320px;
+  }
+} */
