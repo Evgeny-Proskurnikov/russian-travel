@@ -1,5 +1,6 @@
 .place__column-right {
   max-width: 482px;
+  width: 100%;
 }
 
 @media screen and (max-width: 1280px) {

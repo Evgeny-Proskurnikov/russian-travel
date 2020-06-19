@@ -3,6 +3,12 @@
   height: 52px;
   background-image: url(../../../images/header-logo.svg);
   background-size: contain;
+  transition: 0.5s linear;
+}
+
+.header__logo:hover {
+  opacity: 0.8;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 425px) {

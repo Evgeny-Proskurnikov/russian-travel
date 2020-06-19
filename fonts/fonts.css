@@ -2,16 +2,19 @@
   font-family: 'Inter';
   src: url(./Inter/inter-regular-webfont.woff2);
   font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
   font-family: 'Inter';
   src: url(./Inter/inter-bold-webfont.woff2);
   font-weight: bold;
+  font-style: normal;
 }
 
 @font-face {
   font-family: 'Inter';
   src: url(./Inter/inter-black-webfont.woff2);
   font-weight: 900;
+  font-style: normal;
 }
