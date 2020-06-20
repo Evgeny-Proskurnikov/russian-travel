@@ -1,6 +1,8 @@
 @import url(./__logo/header__logo.css);
 @import url(./__lang-links/header__lang-links.css);
 @import url(./__lang-link/header__lang-link.css);
+@import url(./__lang-link/_status_active/header__lang-link_status_active.css);
+
 
 .header {
   width: calc(100% - 96px);
@@ -24,7 +26,6 @@
 @media screen and (max-width: 768px) {
   .header {
     width: calc(100% - 48px);
-    margin: 28px auto 48px;
   }
 }
 

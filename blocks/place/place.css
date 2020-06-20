@@ -4,8 +4,7 @@
 @import url(./__title/place__title.css);
 @import url(./__url-heading/place__url-heading.css);
 @import url(./__website/place__website.css);
-@import url(./__column-left/place__column-left.css);
-@import url(./__column-right/place__column-right.css);
+@import url(./__text-column/place__text-column.css);
 @import url(./__heading/place__heading.css);
 @import url(./__content/place__content.css);
 

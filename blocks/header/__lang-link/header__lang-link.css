@@ -4,9 +4,6 @@
   margin-left: 18px;
   color: #FFFFFF;
   transition: 0.3s linear;
-}
-
-.header__lang-link:last-of-type {
   text-decoration: none;
 }
 
